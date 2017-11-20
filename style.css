@@ -1,0 +1,62 @@
+div {
+    width: 900px;
+}
+
+#logo,
+#sub-logo,
+nav h6,
+h3,
+h2 {
+    font-family: 'Work Sans', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+h2 {
+    font-size: 300%;
+    font-weight: 600;
+    color: #d35400;
+}
+
+h3 {
+    font-weight: 600;
+    color: #d35400;
+    font-size: 200%;
+    font-variant: small-caps;
+    word-spacing: -3px;
+}
+
+p {
+    font-size: 120%;
+    font-family: 'Neuton', serif;
+    font-weight: 400;
+    line-height: 150%;
+    letter-spacing: -1px;
+    word-spacing: 2px;
+}
+
+#logo {
+    font-style: normal;
+    font-size: 250%;
+}
+
+#sub-logo {
+    font-style: oblique;
+    font-size: 100%;
+    font-weight: 300;
+}
+
+blockquote {
+    font-size: 150%;
+    text-align: center;
+    color: #d35400;
+    font-style: italic;
+    text-shadow: 1px 1px 5px #5555558a;
+}
+
+#logo span {
+    color: #d35400;
+}
